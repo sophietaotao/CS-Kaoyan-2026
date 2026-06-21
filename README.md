@@ -1,16 +1,27 @@
-CS-考研-2026/
+# CS-考研-2026
 
-README.md
+## Goal
+
+2026 Computer Science Graduate Entrance Exam
+
+Target Score: 350+
+
+## Subjects
+
+- Mathematics I
+- 408
+- English I
+- Politics
+
+## Study Method
+
+- Guided Learning
+- Knowledge Gap Tracking
+- Mistake Analysis
+- Weekly Review
+
+## Repository Structure
 
 tracker/
-    overview.md
-    knowledge-map.md
-    weekly-review.md
-
 sessions/
-
 mistakes/
-    math.md
-    408.md
-    english.md
-    politics.md
